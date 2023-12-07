@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.nekomoyi.chat.mainWindow
+Class-Path: javafx-base-21-ea+24.jar javafx-base-21-ea+24-mac-aarch64.ja
+ r javafx-graphics-21-ea+24-mac-aarch64.jar javafx-controls-21-ea+24.jar
+  gson-2.10.1.jar javafx-graphics-21-ea+24.jar javafx-fxml-21-ea+24.jar 
+ javafx-controls-21-ea+24-mac-aarch64.jar javafx-fxml-21-ea+24-mac-aarch
+ 64.jar
+
